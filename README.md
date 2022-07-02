@@ -1,6 +1,6 @@
-# This is just a clone of [String Session Bot](https://github.com/krakinz/genstr)!
+## This is just a clone of [String Session Bot](https://github.com/krakinz/genstr)!
 
-## Pyrogram and Telethon String Session Bot [@getStr_Bot](https://telegram.dog/getStr_Bot)
+### Pyrogram and Telethon String Session Bot [@getStr_Bot](https://telegram.dog/getStr_Bot)
 
 > A star ⭐ from you means a lot to us!
 
