@@ -65,5 +65,5 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
 
 
 ERROR_MESSAGE = "Oops! An exception occurred! \n\n**Error** : {} " \
-            "\n\nPlease forward this to @MarineChats if this message doesn't contain any " \
+            "\n\nPlease forward this to @Hypevoidlab if this message doesn't contain any " \
             "sensitive information and for your information : **These kinda error logs are not stored in our database!**"
